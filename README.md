@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte&show_icons=true&theme=dark)
-
-![](https://img.shields.io/twitter/follow/Rakesh98448963?label=Follow&style=social)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pnarun&show_icons=true&theme=dark)
 
 <p>
-<a href="https://www.linkedin.com/in/rakesh-s-r-059391186/">
+<a href="https://www.linkedin.com/in/arun-p-n-a65323180/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&logo=linkedIn&color=blue">
   </a>
 </p>
