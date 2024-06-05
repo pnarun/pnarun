@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I work in GE Vernova as Cyber Security Engineering Specialist.
-- 🌱 I’m currently learning Angular, NodeJS, and PostgreSQL.
+- 🌱 Tech stack:  Angular, NodeJS, and PostgreSQL.
 - 💬 Ask me about Web development(Full Stack).
 - 📫 How to reach me: arunpn866@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... 
