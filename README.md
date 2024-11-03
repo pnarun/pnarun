@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I work in GE Vernova as Cyber Security Engineering Specialist.
+- 🔭 I work in Accenture as Security Delivery Senior Analyst.
 - 🌱 Tech stack:  Angular, NodeJS, and PostgreSQL.
 - 💬 Ask me about Web development(Full Stack).
 - 📫 How to reach me: arunpn866@gmail.com
