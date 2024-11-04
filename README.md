@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I work in Accenture as Security Delivery Senior Analyst.
+- 👨🏻‍💻 I work in Accenture as a Security Delivery Senior Analyst.
 - 🌱 Tech stack:  Angular, NodeJS, and PostgreSQL.
 - 💬 Ask me about Web development(Full Stack).
 - 📫 How to reach me: arunpn866@gmail.com
+- 💻 My Portfolio: https://pnarun.github.io/Portfolio/
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
